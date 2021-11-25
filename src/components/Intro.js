@@ -16,11 +16,11 @@ const Intro = () => {
             <h3>Full Stack Developer</h3>
             <ul>
               <li>Web Developer</li>
-              {/* <li>Programmer</li> */}
+              <li>Programmer</li>
             </ul>
             <div className="action">
               <Button
-                link="https://github.com/zonayedpca/zonayed.me/raw/master/src/data/file/MyResume.pdf"
+                link="https://github.com/GYashvant/MyPortfolio/raw/master/src/data/file/MyResume.pdf"
                 target="__blank"
                 bgColor="#00cf5d"
                 title="Get Resume"
