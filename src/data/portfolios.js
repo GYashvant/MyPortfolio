@@ -6,7 +6,7 @@ export const portfolios = {
       image: require("./image/Tanishq_LandingPage.png"),
       description:
         "An E-Commerce Website Clone, Where Users can order Jewellery Items through this website.",
-      demo: "https://gradienta.io",
+      demo: "https://tanishqclone.herokuapp.com/index",
       source: "https://github.com/GYashvant/Tanishq",
       tools: [ "EJS", "HTML", "CSS", "MongoDB"],
     },

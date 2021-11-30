@@ -23,17 +23,17 @@ const About = () => {
             </p>
             <div className="about-action">
               <Button
-                link="https://github.com/GYashvant/MyPortfolio/raw/master/src/data/file/MyResume.pdf"
+                link="https://drive.google.com/file/d/1GQQ4fBdplvRhRf3-pE0z-2aXDPShWbXb/view?usp=sharing"
                 target="_blank"
                 bgColor="#00cf5d"
                 title="Get Resume"
               />
-              <Button clickEvent link="#skill" ml="15px" title="My Skills" />
+              {/* <Button clickEvent link="#skill" ml="15px" title="My Skills" /> */}
             </div>
           </div>
           <div className="about-image">
             <div className="image">
-              <img alt="profile" src={profile}/>
+              <img style={{marginLeft:"30%"}} alt="profile" src={profile}/>
             </div>
           </div>
         </div>

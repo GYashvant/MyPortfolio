@@ -87,7 +87,7 @@ const Header = () => {
                 className="btn-download"
                 target="_blank"
                 rel="noopener noreferrer"
-                href="https://github.com/GYashvant/MyPortfolio/raw/master/src/data/file/MyResume.pdf"
+                href="https://drive.google.com/file/d/1GQQ4fBdplvRhRf3-pE0z-2aXDPShWbXb/view?usp=sharing"
               >
                 Resume
               </a>

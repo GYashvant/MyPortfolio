@@ -1,24 +1,25 @@
 export const skills = {
   Web: [
-    { name: "React", percent: 90 },
-    { name: "Node JS", percent: 80 },
-    { name: "Express JS", percent: 90 },
-    { name: "EchmaScript", percent: 80 },
-    { name: "MongoDB", percent: 90 },
+    { name: "React", percent: 100 },
+    { name: "Node JS", percent: 100 },
+    { name: "Express JS", percent: 100 },
+    { name: "EchmaScript", percent: 100 },
+    { name: "MongoDB", percent: 100 },
+    { name: "Redux", percent: 100 },
   ],
-  Others: [
-    { name: "Redux", percent: 80 },
+  /* Others: [
+    
     { name: "Jest", percent: 65 },
-  ],
+  ], */
   Programming: [
-    { name: "JavaScript", percent: 90 },
+    { name: "JavaScript", percent: 100 },
 
   ],
   Tools: [
-    { name: "Git", percent: 85 },
-    { name: "Postman", percent: 90 },
-    { name: "Vercel", percent: 80 },
-    { name: "Heroku", percent: 85 },
-    { name: "MongoDB Atlas", percent: 80 },
+    { name: "Git", percent: 100 },
+    { name: "Postman", percent: 100 },
+    { name: "Vercel", percent: 100 },
+    { name: "Heroku", percent: 100 },
+    { name: "MongoDB Atlas", percent: 100 },
   ],
 }
