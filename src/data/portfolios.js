@@ -16,10 +16,40 @@ export const portfolios = {
       image: require("./image/e-v_LandingPage.jpg"),
       description:
         "A Road side assistance platform for user when facing any issue related to Electric Vehicles.",
-      demo: "https://devsonket.com",
+      demo: "https://ev-management-app-nine.vercel.app",
       source: "https://github.com/akhilsdeportfolio/EV-Management",
       tools: ["React", "Material UI", "MongoDB"],
     },
+    {
+      type: "featured",
+      name: "Ikea",
+      image: require("./image/Ikea_LandingPage.png"),
+      description:
+        "IKEA is a global destination store for home furnishing, appliances, ready-to-assemble furniture, home accessories and kitchen products.",
+      demo: "",
+      source: "https://github.com/GYashvant/ikea-clone",
+      tools: ["React", "CSS", "MongoDB"],
+    },
+    {
+      type: "featured",
+      name: "Tic-Tac-Toe Game",
+      image: require("./image/Tic-tac-toe.png"),
+      description:
+        "Tic-tac-toe is played on a three-by-three grid by two players, who alternately place the marks X and O in one of the nine spaces in the grid.",
+      demo: "https://tictactoegaming.herokuapp.com/",
+      source: "https://github.com/GYashvant/tic-tac-toe",
+      tools: ["React", "CSS"],
+    },
+    {
+      type: "featured",
+      name: "Todo-App",
+      image: require("./image/Todo-App.png"),
+      description:
+        "Todo is a cloud-based task management application. It allows users to manage their tasks from a smartphone, tablet and computer.",
+      demo: "https://todo-wine-tau.vercel.app",
+      source: "https://github.com/GYashvant/Todo",
+      tools: ["React", "CSS"],
+    }
   ],
  /*  Others: [
     {
@@ -28,9 +58,7 @@ export const portfolios = {
       image: require("./image/devtop.jpg"),
       description:
         "Cross-platform desktop tool for the developers, does some useful job and make life easy",
-      demo: "https://zonayedpca.github.io/DevTop",
-      source: "https://github.com/zonayedpca/DevTop",
-      tools: ["electron", "react"],
+      tools: ["react"],
     },
   ], */
 }

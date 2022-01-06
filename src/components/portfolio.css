@@ -176,13 +176,20 @@
     margin-bottom: 0;
   }
 
-  
+  /* .portfolio{
+    margin-right: 0px !important;
+  } */
 
   .portfolio-nav li {
     margin: 0 5px;
     margin-bottom: 15px;
   }
 
+  /* .portfolio-items{
+     display: grid;
+    grid-template-columns: auto; 
+  }
+ */
   .portfolio-items > * {
     margin-bottom: 15px;
   }

@@ -39,7 +39,7 @@ const Portfolio = () => {
                   <h4>
                    {/*  <a
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="noopener noreferrer" 
                       href={portfolio.demo}
                     > */}
                       {portfolio.name}
