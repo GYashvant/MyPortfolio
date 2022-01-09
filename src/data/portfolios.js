@@ -26,7 +26,7 @@ export const portfolios = {
       image: require("./image/Ikea_LandingPage.png"),
       description:
         "IKEA is a global destination store for home furnishing, appliances, ready-to-assemble furniture, home accessories and kitchen products.",
-      demo: "",
+      demo: "https://ikea-clone-jan.netlify.app/",
       source: "https://github.com/GYashvant/ikea-clone",
       tools: ["React", "CSS", "MongoDB"],
     },
